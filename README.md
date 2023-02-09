@@ -1,6 +1,6 @@
 # Startup
 
-https://user-images.githubusercontent.com/76491823/217718763-baf019f4-f4a0-4833-b959-de19c8f5c0ad.mp4  
+https://user-images.githubusercontent.com/76491823/217718763-baf019f4-f4a0-4833-b959-de19c8f5c0ad.mp4
 
 This project consists of three parts. Video walkthroughs follow in the next
 section. After completing each part, watch the corresponding walkthrough before
